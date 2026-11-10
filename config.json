@@ -71,6 +71,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "file-automation",
+      "title": "Automação de Arquivos com Python",
+      "description": "Organize arquivos por extensão usando pathlib, loops e condicionais.",
+      "path": "assignments/file-automation",
+      "dueDate": "2026-11-17",
+      "attachments": [
+        {
+          "name": "Código Inicial",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
